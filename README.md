@@ -19,6 +19,7 @@ For local data storage, Room, an SQLite object mapping library, is integrated in
 Users can search for specific restaurants in their local area by leveraging the power of Room database. The app allows for efficient and quick querying of restaurant data, making it easy for users to find the dining options they desire.
 
 GETTING STARTED
+
 To build and run the application on your local machine, follow these steps:
 
 1. Clone the repository to your computer.
