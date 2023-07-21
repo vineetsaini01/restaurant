@@ -1,3 +1,5 @@
+RESTAURANT APPLICATION WITH JETPACK COMPOSE
+
 Welcome to the restaurant application built using Jetpack Compose, Dagger-Hilt for dependency injection, and following Clean Architecture principles. The app utilizes Retrofit for API implementation and Room for local database storage. Here's an overview of the key points of the project:
 
 KEY POINTS 
